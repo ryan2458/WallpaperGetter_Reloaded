@@ -13,3 +13,5 @@ If you want to have this program run on startup:
 Note: Don't copy a release .exe here, otherwise Windows Defender will flag it as a trojan.  This probably occurs since I'm doing File IO and I guess
 Windows Defender doesn't like that.  I promise this isn't a trojan, I just didn't want to spend time working with certificates and signatures for such a small application that
 would probably be better as a script, but oh well, I did it in C#.
+
+If this program isn't working for you, please let me know by creating a new issue!
